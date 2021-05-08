@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Presently, I am working as a post-doctoral researcher in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of Prof. Archan Misra. My research is primarily focused in the areas of the Embedded Sensing, Ubiquitous Computing, Low-power System Design, and Internet-of-Things (IoT). <br> <br>
+<p style="text-align:justify"> Presently, I am working as a post-doctoral researcher in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of Prof. Archan Misra. My research is primarily focused in the areas of the Embedded Sensing, Ubiquitous Computing, Low-power System Design, and Internet-of-Things (IoT). <br> <br>
 
 Prior to LARC, I have received by Ph.D. training from IIIT-Delhi under wonderful supervision of Dr. Shobha Sundar Ram (Department of Electronics Engineering) and Dr. Amarjeet Singh (Joint faculty - Department of Computer Science and Electronics Engineering).
 
