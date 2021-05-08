@@ -17,18 +17,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="text-align:justify"> Presently, I am working as a post-doctoral researcher in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of Prof. Archan Misra. My research is primarily focused in the areas of the Embedded Sensing, Ubiquitous Computing, Low-power System Design, and Internet-of-Things (IoT). <br> <br>
+<p style="text-align:justify"> Presently, I am working as a post-doctoral researcher in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of <b>Prof. Archan Misra</b>. My research is primarily focused in the areas of the <b>Embedded Sensing, Ubiquitous Computing, Low-power System Design, and Internet-of-Things (IoT)</b>. <br> <br>
 
-Prior to LARC, I have received by Ph.D. training from IIIT-Delhi under wonderful supervision of Dr. Shobha Sundar Ram (Department of Electronics Engineering) and Dr. Amarjeet Singh (Joint faculty - Department of Computer Science and Electronics Engineering).
+Prior to LARC, I have received my Ph.D. training from IIIT-Delhi under wonderful supervision of <b>Dr. Shobha Sundar Ram (Department of Electronics Engineering)</b> and <b>Dr. Amarjeet Singh (Joint faculty - Department of Computer Science and Electronics Engineering)</b> with a specialization in Embedded Sensing for Energy Sustainability Applications.<br>
 
-During my doctoral studies, I have worked as a visiting researcher with Prof. Shwetak Narain Patel (University of Washington, Seattle, USA) and Sidhant Gupta (Microsoft Research, Redmond) at Ubicomp Lab <b>Paul G. Allen Centre for Computer Science and Engineering, University of Washington, Seattle, WA (USA)</b> from 2016-2018. <br>
+During my doctoral studies, I had a chance to work as a visiting researcher with <b>Prof. Shwetak Narain Patel (University of Washington, Seattle, USA)</b> and <b>Sidhant Gupta (Microsoft Research, Redmond)</b> at <b>Ubicomp Lab</b> in <b>Paul G. Allen Centre for Computer Science and Engineering, University of Washington, Seattle, WA (USA)</b> from 2016-2018. <br> <br>
 
-After completing my doctoral research, I have also spent some time consulting with a few technology startups i.e. Aerogram India Pvt. Ltd. focusing on Distributed Air Quality Monitoring and Child Health Imprints Pte. Ltd. which leverages power of IoT for neonatal health monitoring in NICU's. <br> <br> I have also served a short stint at IIT Kanpur as a visiting faculty for E-ICT Academy in 2019 Summer.
+After completing my doctoral research, I have also spent some time consulting with a few technology startups i.e. <b>Aerogram India Pvt. Ltd.</b> focusing on Distributed Air Quality Monitoring and <b>Child Health Imprints Pte. Ltd.</b> which leverages power of IoT for neonatal health monitoring in NICU's. <br> I have also served a short stint at <b>IIT Kanpur</b> as a visiting faculty for <b>E-ICT Academy</b> in 2019 Summer. <br> <br>
 
-Before joining IIIT-Delhi, I have worked with <b>Hewlett-Packard Educational services (Noida) </b> and <b> Indrion Technologies (Bangalore) </b> as Embedded Design Engineer where we designed and deployed Wireless Sensor Networks for Smart Energy applications. I received my B.Tech (Hons.) in Electronics and Communication Engineering in 2011 from <b> Maharishi Dayanand University, Rohtak</b>. <br> </p>
+Before joining IIIT-Delhi, I have worked with <b>Hewlett-Packard Educational services (Noida) </b>, <b> WiFinity Tech (Bangalore) </b> and <b> Indrion Technologies (Bangalore) </b> as Embedded Design Engineer where we designed and deployed Wireless Sensor Networks for Smart Energy applications. I received my <b>B.Tech (Hons.) in Electronics and Communication Engineering</b> in 2011 from <b> Maharishi Dayanand University, Rohtak </b>. <br> </p>
 
-<h1>Research Interests</h1>
-<p>Embedded Sensing, Low-power System Design, Ubiquitous Computing, Internet of Things (IoT), Applied Machine Learning, Data science, Energy Harvesting (Self-powered Systems), and Energy Sustainability </p>
+<h1> Research Interests </h1>
+<p style="text-align:justify"> Embedded Sensing, Low-power System Design, Ubiquitous Computing, Internet of Things (IoT), Applied Machine Learning, Data science, Energy Harvesting (Self-powered Systems), and Energy Sustainability </p>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
