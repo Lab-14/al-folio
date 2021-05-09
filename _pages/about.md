@@ -17,9 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="text-align:justify"> Presently, I am working as a post-doctoral researcher in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of <b>Prof. Archan Misra</b>. My research is primarily focused in the areas of the <b>Embedded Sensing, Ubiquitous Computing, Low-power System Design, and Internet-of-Things (IoT)</b>. <br> <br>
+<p style="text-align:justify"> Presently, I am working as a post-doctoral researcher in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of <b>Prof. Archan Misra</b>. <br> <br>
 
-Prior to LARC, I have received my Ph.D. training from IIIT-Delhi under wonderful supervision of <b>Dr. Shobha Sundar Ram (Department of Electronics Engineering)</b> and <b>Dr. Amarjeet Singh (Joint faculty - Department of Computer Science and Electronics Engineering)</b> with a specialization in Embedded Sensing for Energy Sustainability Applications.<br>
+My research is primarily focused in the areas of the <b>Embedded Sensing, Ubiquitous Computing, Low-power System Design, and Internet-of-Things (IoT)</b>. <br> <br>
+
+Prior to LARC, I have received my Ph.D. training from IIIT-Delhi under wonderful supervision of <b>Dr. Shobha Sundar Ram (Department of Electronics Engineering)</b> and <b>Dr. Amarjeet Singh (Joint faculty - Department of Computer Science and Electronics Engineering)</b> with a specialization in Embedded Sensing for Energy Sustainability Applications.<br> <br>
 
 During my doctoral studies, I had a chance to work as a visiting researcher with <b>Prof. Shwetak Narain Patel (University of Washington, Seattle, USA)</b> and <b>Sidhant Gupta (Microsoft Research, Redmond)</b> at <b>Ubicomp Lab</b> in <b>Paul G. Allen Centre for Computer Science and Engineering, University of Washington, Seattle, WA (USA)</b> from 2016-2018. <br> <br>
 
