@@ -8,7 +8,7 @@ profile:
   align: right
   image: img1.jpg
   address: >
-    <p>Living Analytics Research Centre</p>
+    <p>Living Analytics Research Centre,</p>
     <p>School of Computing and Information Systems, SMU</p>
     <!-- <p>Singapore Management University</p> -->
     <p>80 Stamford Rd, Singapore 178902</p>
