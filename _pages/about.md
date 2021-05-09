@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: img1.jpg
   address: >
     <p>Living Analytics Research Centre</p>
     <p>School of Computing and Information Systems</p>
