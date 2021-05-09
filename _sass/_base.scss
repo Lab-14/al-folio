@@ -60,9 +60,12 @@ a, table.table a {
 
 @media (min-width: 576px) {
   .profile {
-    width: 40%;
+    width: 45%;
     .address {
       p { display: block; }
+    }
+    .image{
+      width: 30%;
     }
   }
 }
