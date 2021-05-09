@@ -9,9 +9,9 @@ profile:
   image: img1.jpg
   address: >
     <p>Living Analytics Research Centre</p>
-    <p>School of Computing and Information Systems</p>
-    <p>Singapore Management University</p>
-    <p>80 Stamford Rd, SG-178902</p>
+    <p>School of Computing and Information Systems, SMU</p>
+    <!-- <p>Singapore Management University</p> -->
+    <p>80 Stamford Rd, Singapore 178902</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
