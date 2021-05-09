@@ -30,7 +30,7 @@ After completing my doctoral research, I have also spent some time consulting wi
 
 Before joining IIIT-Delhi, I have worked with <b>Hewlett-Packard Educational services (Noida)</b>, <b> WiFinity Tech (Bangalore) </b> and <b> Indrion Technologies (Bangalore) </b> as Embedded Design Engineer where we designed and deployed Wireless Sensor Networks for Smart Energy applications. I received my <b>B.Tech (with Hons.) in Electronics and Communication Engineering</b> in 2011 from <b> Maharishi Dayanand University, Rohtak </b>. <br> </p>
 
-<h1> Research Interests </h1>
+<h1> research interests </h1>
 <p style="text-align:justify"> Embedded Sensing, Low-power System Design, Ubiquitous Computing, Internet of Things (IoT), Energy Harvesting (Self-powered Systems), and Energy Sustainability </p>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
