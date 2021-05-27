@@ -25,3 +25,8 @@ horizontal: false
       Allah is the most merciful!!
       Allah is the most merciful!!
       Allah is the most merciful!!
+
+
+    {% endfor %}
+
+</div>
