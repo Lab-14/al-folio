@@ -17,7 +17,7 @@ horizontal: false
 </ol>   -->
 
 <h3> present collaborations </h3>
-
+<hr>
 <ol type="i">
 
   <li> <a href="https://sites.google.com/view/archan-misra"> Prof. Archan Misra </a>  </li>
@@ -44,8 +44,9 @@ horizontal: false
 </ol>
 
 <h3> past collaborators & mentors </h3>
-
+<hr>
 <ol type="i">
+
   <li> <a href="https://homes.cs.washington.edu/~shwetak/"> Prof. Shwetak N. Patel </a> </li>
   Washington Research Foundation Endowed Professor,<br>
   Computer Science Engineering,<br>
