@@ -46,35 +46,30 @@ horizontal: false
 <h3> past collaborations </h3>
 
 <ol type="i">
-  <li> Prof. Shwetak N. Patel </li>
+  <li> <a href="https://homes.cs.washington.edu/~shwetak/"> Prof. Shwetak N. Patel </a> </li>
   Washington Research Foundation Endowed Professor,<br>
   Computer Science Engineering,<br>
   University of Washington, Seattle (USA)<br>
-  <!-- https://homes.cs.washington.edu/~shwetak/ -->
 
-  <li> Dr. Sidhant Gupta </li>
+  <li> <a href="https://www.linkedin.com/in/sidhantgupta"> Dr. Sidhant Gupta </a> </li>
   Director,<br>
   Product Incubation at Microsoft Research, Redmond (USA)<br>
-  <!-- https://www.linkedin.com/in/sidhantgupta -->
 
-  <li> Dr. Amarjeet Singh </li>
+  <li> <a href="http://faculty.iiitd.ac.in/~amarjeet/ "> Dr. Amarjeet Singh </a> </li>
   CTO & Co-founder at Zenatix <br>
   Assistant Professor, <br>
-  Joint appointment at Department of Computer Science and Engineering & <br> 
+  Joint appointment at Department of Computer Science and Engineering & <br>
   Department of Electronics and Communication Engineering, <br>
-  IIIT-Delhi (India)<br>
-  <!-- http://faculty.iiitd.ac.in/~amarjeet/ -->
+  IIIT-Delhi (India) <br>
 
-  <li> Prof. Shobha Sundar Ram </li>
+  <li> <a href="https://www.iiitd.ac.in/shobha"> Prof. Shobha Sundar Ram </a> </li>
   Associate Professor, <br>
   Department of Electronics and Communication Engineering, <br>
-  IIIT-Delhi (India)<br>
-  <!-- https://www.iiitd.ac.in/shobha -->
+  IIIT-Delhi (India) <br>
 
-  <li> Mr. Sourabh Sankule </li>
+  <li> <a href="https://in.linkedin.com/in/sourabh-sankule-51575418"> Mr. Sourabh Sankule </a> </li>
   Senior Engineering Manager, <br>
   Westren Digital (earlier SanDisk), India <br>
-  B.Tech ECE 09, IIT-kanpur (India) <br>
-  <!-- https://in.linkedin.com/in/sourabh-sankule-51575418 -->
+  B.Tech ECE'09, IIT-kanpur (India) <br>
 
 </ol>
