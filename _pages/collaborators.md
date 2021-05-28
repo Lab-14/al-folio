@@ -43,7 +43,7 @@ horizontal: false
 
 </ol>
 
-<h3> past collaborations </h3>
+<h3> past collaborators & mentors </h3>
 
 <ol type="i">
   <li> <a href="https://homes.cs.washington.edu/~shwetak/"> Prof. Shwetak N. Patel </a> </li>
@@ -66,6 +66,26 @@ horizontal: false
   Associate Professor, <br>
   Department of Electronics and Communication Engineering, <br>
   IIIT-Delhi (India) <br>
+
+  <li> <a href="https://www.ejaywang.com/"> Dr. Edward Jay Wang </a> </li>
+  Assistant Professor, <br>
+  Department of Electrical and Computer Engineering, <br>
+  UCSD (USA) <br>
+
+  <li> <a href="https://mariakakis.github.io/"> Dr. Alex Mariakakis </a> </li>
+  Assistant Professor, <br>
+  Department of Computer Science, <br>
+  University of Toronto (Canada) <br>
+
+  <li> <a href="http://www.mayankgoel.com/"> Dr. Mayank Goel </a> </li>
+  Assistant Professor, <br>
+  Department of Computer Science, <br>
+  Carnegie Mellon University (USA) <br>
+
+  <li> <a href="https://nipunbatra.github.io/"> Dr. Nipun Batra </a> </li>
+  Assistant Professor, <br>
+  Department of Computer Science and Engineering, <br>
+  IIT-Gandhinagar (India) <br>
 
   <li> <a href="https://in.linkedin.com/in/sourabh-sankule-51575418"> Mr. Sourabh Sankule </a> </li>
   Senior Engineering Manager, <br>
