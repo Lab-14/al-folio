@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="text-align:justify"> Presently, I am working as a post-doctoral researcher in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of <b>Prof. Archan Misra</b>. <br> <br>
+<p style="text-align:justify"> Presently, I am working as a research scientist (post-doctoral researcher) in <b>Living Analytics Research Centre (LARC)</b> at <b>School of Computing and Information Systems</b>, <b>Singapore Management University</b> under supervision of <b>Prof. Archan Misra</b>. <br> <br>
 
 My research is primarily focused in the areas of the <b>Embedded Sensing, Ubiquitous Computing, Low-power System Design, and Internet-of-Things (IoT)</b>. <br> <br>
 
