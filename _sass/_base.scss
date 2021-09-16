@@ -50,7 +50,7 @@ a, table.table a {
     margin-bottom: 15px;
     margin-top: 5px;
     font-family: monospace;
-    font-size: 1rem;
+    font-size: 0.7rem;
     p {
       display: inline-block;
       margin: 0;
@@ -60,7 +60,7 @@ a, table.table a {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
     .address {
       p { display: block; }
     }
